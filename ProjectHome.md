@@ -1,0 +1,1 @@
+The bulk plugin is mainly used for managing third libraries upload to a maven repository. It is based on the standard maven-deploy-plugin. Instead of uploading a single file, this plugin performs an upload of multiple files to different groupId's.
